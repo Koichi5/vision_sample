@@ -11,7 +11,7 @@ import SwiftUI
 struct vision_sampleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MusicAppContentView()
         }
     }
 }

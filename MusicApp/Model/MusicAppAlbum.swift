@@ -16,7 +16,7 @@ struct MusicAppAlbum: Identifiable {
 
 let musicAppAlbums: [MusicAppAlbum] = [
     MusicAppAlbum(image: "https://i1.sndcdn.com/artworks-000108687931-8n3xz1-t500x500.jpg", title: "夜明けと蛍", subTitle: "n-buna"),
-    MusicAppAlbum(image: "https://assets.st-note.com/production/uploads/images/98018715/rectangle_large_type_2_30b9505436ebe8c9b80e10ce3b2dd2af.jpg?width=2000&height=2000&fit=bounds&format=jpg&quality=85", title: "ビリミリオン", subTitle: "優里"),
+    MusicAppAlbum(image: "https://m.media-amazon.com/images/I/710YO1lQZNL._AC_SL1500_.jpg", title: "ビリミリオン", subTitle: "優里"),
     MusicAppAlbum(image: "https://ogre.natalie.mu/media/news/music/2020/0713/yuri_jkt202007.jpg?imwidth=750&imdensity=1", title: "ピーターパン", subTitle: "優里"),
     MusicAppAlbum(image: "https://content-jp.umgi.net/products/um/UMCK-5643_RGT_extralarge.jpg?05022020084234", title: "瞬き", subTitle: "back number"),
     MusicAppAlbum(image: "https://mrsgreenapple.com/s3/skiyaki/uploads/image/file/152924/0417%E8%A7%A3%E7%A6%81_%E3%82%B1%E3%82%BB%E3%83%A9%E3%82%BB%E3%83%A9%E9%85%8D%E4%BF%A1%E3%82%B7%E3%82%99%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88_%E8%BB%BD.jpg", title: "ケセラセラ", subTitle: "Mrs.GREEN APPLE"),
