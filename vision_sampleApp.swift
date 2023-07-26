@@ -10,8 +10,10 @@ import SwiftUI
 @main
 struct vision_sampleApp: App {
     var body: some Scene {
-        WindowGroup {
+//        WindowGroup {
 //            MusicAppContentView()
+//        }
+        WindowGroup(id: "main") {
             PlanetsContentView()
         }
         ImmersiveSpace(id: "saturn") {
