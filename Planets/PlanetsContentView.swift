@@ -19,7 +19,7 @@ struct PlanetsContentView: View {
             VStack {
                 Button("Hello World !") {
                     Task {
-                        await openImmersiveSpace(id: "saturn")
+                        await openImmersiveSpace(id: "planets")
                     }
                 }
             }

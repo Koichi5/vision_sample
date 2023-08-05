@@ -16,7 +16,7 @@ struct vision_sampleApp: App {
         WindowGroup(id: "main") {
             PlanetsContentView()
         }
-        ImmersiveSpace(id: "saturn") {
+        ImmersiveSpace(id: "planets") {
             PlanetsView()
         }
     }
